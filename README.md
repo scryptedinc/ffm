@@ -15,7 +15,7 @@ npm install scrypted-ffm
 To use the \`FFM\` class in your project, first require it:
 
 \`\`\`javascript
-const { FFM } = require('five-factor-model-personality').Scrypted;
+const { FFM } = require('scrypted-ffm').Scrypted;
 \`\`\`
 
 Then, create a new \`FFM\` object with the specified personality trait values (all trait values must be between 0 and 1.0 inclusive):
