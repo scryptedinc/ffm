@@ -1,0 +1,24 @@
+{
+  "name": "scrypted-ffm",
+  "version": "0.0.1",
+  "description": "Five Factor Model (FFM) of Personality in an object-oriented implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test/FFM.test.js"
+  },
+  "keywords": [
+    "ai",
+    "ffm",
+    "five",
+    "factor",
+    "model",
+    "personality",
+    "oop",
+    "object-oriented"
+  ],
+  "author": "Tim Cotten <tcotten@scryptedinc.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
