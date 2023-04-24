@@ -16,6 +16,10 @@
     "oop",
     "object-oriented"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scryptedinc/ffm"
+  },
   "author": "Tim Cotten <tcotten@scryptedinc.com>",
   "license": "MIT",
   "devDependencies": {
